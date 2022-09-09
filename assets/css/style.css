@@ -1,4 +1,4 @@
-/* text color and font size moved to universal to reduce clutter */
+/* Text color and font size moved to universal to reduce clutter */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +7,7 @@
     font-size: 16px;
 }
 
-/* Grouped font-family properties to remove redundancy */
+/* Consolidated font-family properties to remove redundancy */
 header,
 footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -72,14 +72,6 @@ a {
     text-decoration: none;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
-}
-
 main {
     width: 75%;
     display: inline-block;
@@ -105,6 +97,15 @@ section {
 
 section article {
     margin-bottom: 32px;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 /* Consolidated several tags to remove redundancy */
