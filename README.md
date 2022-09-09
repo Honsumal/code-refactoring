@@ -16,7 +16,6 @@ This webpage is designed to be visually and functionally identical to the initia
 - Consolidated many of the rules that were repeated. Some rules added to the universal selector as part of the consolidation.
 - Renamed several rules that were overly specific to improve accessibility.
 - Reorganized the list of rules so that structure, heading, text, and image rules were grouped for easier readability
-- 
 
 ## Installation
 
