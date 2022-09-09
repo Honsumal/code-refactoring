@@ -31,7 +31,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/* Grouped code under each header to remove redundancy */
+/* Consolidated code under each header to remove redundancy */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -107,7 +107,7 @@ section article {
     margin-bottom: 32px;
 }
 
-/* Grouped several tags to remove redundancy */
+/* Consolidated several tags to remove redundancy */
 main img,
 section img {
     max-height: 200px;
@@ -117,15 +117,4 @@ section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* Couldn't think of a way to remove these */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
