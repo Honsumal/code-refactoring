@@ -23,7 +23,7 @@ N/A
 
 ## Usage
 
-The site is fully operational, with all links tested and images backed up with alternate text in the case of potential problems. Link to deployed webpage: https://honsumal.github.io/module-1-challenge/
+The site is fully operational, with all links tested and images backed up with alternate text in the case of potential problems. Link to deployed webpage: https://honsumal.github.io/code-refactoring/
 
 A screenshot of the completed application is provided below:
 
